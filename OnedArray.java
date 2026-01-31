@@ -12,9 +12,7 @@ public class OnedArray {
         System.out.print("Enter the numbers");
         for(int i=0;i<sci;i++){
             marks[i] =sc.nextInt();
-       
-          
-        
+    
         }
 
         System.out.print("Numbers are : " + " ");
