@@ -7,3 +7,4 @@ public class Carbluprint {
 Carbluprint(int door, int no_type)
  this.door = door;
  this.no_type=no_type;
+ 
