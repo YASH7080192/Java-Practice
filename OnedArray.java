@@ -20,7 +20,6 @@ public class OnedArray {
         for(int i=0; i<sci; i++){
          System.out.print(marks[i]+ " ");
        
-           
-          }
+            }
 }
 }
