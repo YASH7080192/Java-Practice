@@ -1,4 +1,6 @@
-import java.util.Scannner
+package abstraction.string;
+
+import java.util.Scanner;
 
 public class Str {
     public static void main(String[] args){
@@ -6,9 +8,9 @@ public class Str {
         
         String n;
         System.out.println("enter your name");
-        n=HaRi.nextLine;
+        n=sc.nextLine();
 
-      for(int i=0 ;i<n.length;i++){
+      for(int i=0 ;i<n.length();i++){
         System.out.println(i);
       }
     }
