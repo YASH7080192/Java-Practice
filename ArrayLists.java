@@ -37,7 +37,7 @@ public class ArrayLists {
       System.out.println(numbers);
    
 
-      // delect in position elemnet
+      // delect in position ele
       numbers.remove(0);                                                   
       System.out.println(numbers);
 
