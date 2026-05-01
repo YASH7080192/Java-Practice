@@ -16,7 +16,7 @@ public class arr {
 // }
 
 
-public static void main(String[] args) {
+public static void main(String[] args) 
 
     int[]marks={56,67,7,8,96};
 
