@@ -2,8 +2,8 @@ package abstraction.string;
 
 public class StringPool {
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args) { 
+       
         String s1 = "java";
         String s2 = "java";
         String s3 = new String("hello");
@@ -14,3 +14,4 @@ public class StringPool {
         System.out.println(s1.equals(s3)); // false
     }
 }
+
